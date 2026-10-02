@@ -1,4 +1,3 @@
-# bank-account-management-system
 
 # Bank Account Management System
 
@@ -69,37 +68,37 @@ python bank_account_system.py
 ### 1. Main menu
 The program shows the menu and asks the user to enter a choice.
 
-![Main Menu](screenshots/01_main_menu.png)
+![Main Menu](https://github.com/Rollybuilds/bank-account-management-system/blob/648aef6abe283436ec58ce1d7d621fe5fe5d94f8/Main%20Menu.png)
 
 ### 2. Create account (Choice 1)
 The user enters the name, account type, and opening deposit. An account number is generated.
 
-![Create Account](screenshots/02_create_account.png)
+![Create Account](https://github.com/Rollybuilds/bank-account-management-system/blob/648aef6abe283436ec58ce1d7d621fe5fe5d94f8/Create%20Account.png)
 
 ### 3. Deposit money (Choice 2)
 The user enters the account number and the amount. The new balance is shown.
 
-![Deposit Money](screenshots/03_deposit.png)
+![Deposit Money](https://github.com/Rollybuilds/bank-account-management-system/blob/648aef6abe283436ec58ce1d7d621fe5fe5d94f8/Deposit%20money.png)
 
 ### 4. Withdraw money (Choice 3)
 The user enters the account number and the amount. The new balance is shown, or an error if the balance is not enough.
 
-![Withdraw Money](screenshots/04_withdraw.png)
+![Withdraw Money](https://github.com/Rollybuilds/bank-account-management-system/blob/648aef6abe283436ec58ce1d7d621fe5fe5d94f8/withdraw%20money.png)
 
 ### 5. Check balance (Choice 4)
 The account details and the current balance are displayed.
 
-![Check Balance](screenshots/05_check_balance.png)
+![Check Balance](https://github.com/Rollybuilds/bank-account-management-system/blob/648aef6abe283436ec58ce1d7d621fe5fe5d94f8/Check%20balance.png)
 
 ### 6. Transaction history (Choice 5)
 All transactions of the account are displayed with date, type, amount, and balance.
 
-![Transaction History](screenshots/06_transaction_history.png)
+![Transaction History](https://github.com/Rollybuilds/bank-account-management-system/blob/648aef6abe283436ec58ce1d7d621fe5fe5d94f8/Transaction%20History.png)
 
 ### 7. Exit and save data (Choice 6)
 The data is saved in the CSV files and the program closes.
 
-![Exit and Save](screenshots/07_exit_save.png)
+![Exit and Save](https://github.com/Rollybuilds/bank-account-management-system/blob/648aef6abe283436ec58ce1d7d621fe5fe5d94f8/Exit.png)
 
 ## Project files
 
